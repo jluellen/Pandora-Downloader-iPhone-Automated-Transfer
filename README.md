@@ -5,11 +5,13 @@ As a constant user of Pandora Downloader, I always found it irritating everytime
 
 ##Requirments##
 
-*Jailbroken iPhone
-*SSH installed via Cydia
-*Local computer and iPhone on the same network
-*SSH installed on local computer (or enabled)
-*Installation of Python 2.7
-*Local computer must be a Mac (Windows capability coming)
+<ul>
+  <li>Jailbroken iPhone</li>
+  <li>SSH installed via Cydia</li>
+  <li>Local computer and iPhone on the same network</li>
+  <li>SSH installed on local computer (or enabled)</li>
+  <li>Installation of Python 2.7</li>
+  <li>Local computer must be a Mac (Windows capability coming)</li>
+</ul>
 
 
